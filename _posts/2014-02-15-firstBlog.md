@@ -2,7 +2,8 @@
 layout: post
 category : 生活
 tagline: "个人博客的起步"
-tags : [生活]
+tags: [生活]
+title: 第一篇博客
 ---
 {% include JB/setup %}
 
