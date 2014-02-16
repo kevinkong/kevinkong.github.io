@@ -1,8 +1,8 @@
 ---
 layout: post
-category : lessons
+category : Jekyll
 tagline: "kevin's blog"
-tags : [intro, beginner, jekyll, tutorial]
+tags : [jekyll]
 ---
 
 
