@@ -25,4 +25,5 @@ tagline: keivn's blog
  {% endfor %}
 </div>
 
+<h3><a href="/archive.html" target="_blank">更多博文</a></h3>
 
