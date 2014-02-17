@@ -9,7 +9,9 @@ title: Jekyll设置代码高亮
 
 ##如何基于Jekyll设置代码高亮
 这里使用到了[google-code-prettify][1]这个工具
+
 <!--more-->
+
 首先去google-code-prettify下载需要的js以及css文件，下载下来后只有一个文件夹
 
 把文件夹加入到基于Jekyll的源代码的assets\themes\twitter\js文件夹下
