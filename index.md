@@ -16,7 +16,7 @@ tagline: keivn's blog
         <h2><a class="title" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
         <div class="post_at_index">
             {{summary}}
-        {% if summary != post.content %}<a href="{{ BASE_PATH }}{{ post.url }}" rel="nofollow"><b>查看全文</b></a>{% endif %}
+        {% if summary != post.content %}<a href="{{ BASE_PATH }}{{ post.url }}" rel="nofollow"><b>read more →</b></a>{% endif %}
         </div>
         <br/>
         <div>
