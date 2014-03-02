@@ -39,7 +39,7 @@ robolectric是android端的单元测试工具，优势是可以不需要android�
 5. 点击下方的“Link additional source”，选择Emmagee工程中当前新建的test文件夹，点击finish
 6. 点击新建Java工程设置页面的“projects” Tab,点击“Add”，把Emmagee工程关联进来，点击Finish，创建Java工程结束，通过这些步骤，将测试工程和被测工程的关联
 
-![](http://lcoalhost:4000/assets/images/1.png)
+![](http://kongqingyun.me/assets/images/1.png)
 
 ##配置Java测试工程
 1. 在EmmageeTest工程中新建lib文件夹
